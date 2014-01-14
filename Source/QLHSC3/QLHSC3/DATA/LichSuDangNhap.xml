@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LICH_SU_DANG_NHAP>
+  <TAI_KHOAN Ten_Dang_Nhap="thuthuy" Mat_Khau="thuthuy" />
+  <TAI_KHOAN Ten_Dang_Nhap="xuanhoa" Mat_Khau="xuanhoa" />
+  <TAI_KHOAN Ten_Dang_Nhap="tranvanngoc" Mat_Khau="1222" />
+  <TAI_KHOAN Ten_Dang_Nhap="hoxuancuong" Mat_Khau="hoxuancuong" />
+  <TAI_KHOAN Ten_Dang_Nhap="thanhloc" Mat_Khau="thanhloc" />
+  <TAI_KHOAN Ten_Dang_Nhap="dinhthuong" Mat_Khau="dinhthuong" />
+  <TAI_KHOAN Ten_Dang_Nhap="trandoanh" Mat_Khau="trandoanh" />
+</LICH_SU_DANG_NHAP>

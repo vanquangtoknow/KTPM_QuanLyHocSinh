@@ -1,0 +1,183 @@
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\bin\Debug\QLHSC3.exe
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\bin\Debug\QLHSC3.pdb
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.Form1.resources
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.Properties.Resources.resources
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.exe
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.pdb
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.ThayDoiBangDiem.resources
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapBaoCaoTongKet.resources
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThayDoiQuyDinh.resources
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.cache
+D:\Ky1nam3\xml\ThucHanh\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.compiled
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.exe
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.pdb
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\bin\Debug\QLHSC3.exe
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\bin\Debug\QLHSC3.pdb
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmPhieuMoi.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThayDoiQuyDinh.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.Properties.Resources.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmDangNhap.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmNhanPhieuMoi.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThayDoiBangDiem.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThemThongBao.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\bin\Debug\QLHSC3.exe.config
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmBaoCaoTongKetHocKi.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmBaoCaoTongKetMon.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.frmInBaoCaoTongKetMon.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.cache
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.compiled
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmInBaoCaoTongKetHocKi.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapDanhSachLop.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapThoiKhoaBieu.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapThongBao.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmMain.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.frmTiepNhanHocSinh.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmTraCuuHocSinh.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThoiKhoaBieu.resources
+D:\XC_Mon Hoc - Tai Lieu\2012\Project2012\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThongBao.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\bin\Debug\QLHSC3.exe.config
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.exe
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.pdb
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.read.1.tlog
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.read.7.tlog
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.write.1.tlog
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\bin\Debug\QLHSC3.exe
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\bin\Debug\QLHSC3.pdb
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmInBaoCaoTongKetHocKi.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.frmInBaoCaoTongKetMon.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmBaoCaoTongKetHocKi.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmBaoCaoTongKetMon.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmDangNhap.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapDanhSachLop.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapThoiKhoaBieu.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapThongBao.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmMain.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmPhieuMoi.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThayDoiQuyDinh.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmNhanPhieuMoi.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThayDoiBangDiem.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThemThongBao.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.frmTiepNhanHocSinh.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmTraCuuHocSinh.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThoiKhoaBieu.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThongBao.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.Properties.Resources.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.cache
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.compiled
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Version3 co bao cao\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.read.4.tlog
+D:\QLHSC3\QLHSC3\bin\Debug\QLHSC3.exe.config
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.exe
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.pdb
+D:\QLHSC3\QLHSC3\bin\Debug\QLHSC3.exe
+D:\QLHSC3\QLHSC3\bin\Debug\QLHSC3.pdb
+D:\QLHSC3\QLHSC3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmInBaoCaoTongKetHocKi.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.frmInBaoCaoTongKetMon.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmBaoCaoTongKetHocKi.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmBaoCaoTongKetMon.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmDangNhap.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapDanhSachLop.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapThoiKhoaBieu.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapThongBao.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmMain.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThayDoiQuyDinh.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThayDoiBangDiem.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.frmTiepNhanHocSinh.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmTraCuuHocSinh.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThoiKhoaBieu.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThongBao.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.Properties.Resources.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.read.1.tlog
+D:\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.read.4.tlog
+D:\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.read.7.tlog
+D:\QLHSC3\QLHSC3\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.write.1.tlog
+D:\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.cache
+D:\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.compiled
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThongTinCaNhan.resources
+D:\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemBangDiemCaNhan.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\bin\Debug\QLHSC3.exe.config
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.exe
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.pdb
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\bin\Debug\QLHSC3.exe
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\bin\Debug\QLHSC3.pdb
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmInBaoCaoTongKetHocKi.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.frmInBaoCaoTongKetMon.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmBaoCaoTongKetHocKi.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmBaoCaoTongKetMon.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmDangNhap.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapDanhSachLop.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapThoiKhoaBieu.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapThongBao.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmMain.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThayDoiQuyDinh.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThayDoiBangDiem.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.frmTiepNhanHocSinh.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmTraCuuHocSinh.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemBangDiemCaNhan.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThoiKhoaBieu.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThongBao.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThongTinCaNhan.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.Properties.Resources.resources
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.read.1.tlog
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.read.4.tlog
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.read.7.tlog
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\ResGen.write.1.tlog
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.cache
+D:\Nam 3\Phan Tich & Thiet Ke Phan Mem\QLHSC3\Tong hop\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.compiled
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\QLHSC3.exe.config
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.exe
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.pdb
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.csprojResolveAssemblyReference.cache
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmInBaoCaoTongKetHocKi.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.frmInBaoCaoTongKetMon.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmBaoCaoTongKetHocKi.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmBaoCaoTongKetMon.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmDangNhap.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapDanhSachLop.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapThoiKhoaBieu.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmLapThongBao.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmMain.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThayDoiQuyDinh.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmThayDoiBangDiem.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.frmTiepNhanHocSinh.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmTraCuuHocSinh.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemBangDiemCaNhan.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThoiKhoaBieu.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThongBao.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.GUI.frmXemThongTinCaNhan.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.Properties.Resources.resources
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\QLHSC3.csproj.GenerateResource.Cache
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.cache
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\obj\x86\Debug\RdlCompile.compiled
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\QLHSC3.exe
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\QLHSC3.pdb
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\CrystalDecisions.Shared.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH KHTN\Nam 3 - Ki 1\Phan Tich & Thiet Ke Phan Mem\QLHSC3\1012326_1012043\Source\QLHSC3\QLHSC3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
